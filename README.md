@@ -1,1 +1,8 @@
-# main
+- HTML
+- CSS
+- JAVASCRIPT
+    - PHASER
+    - VUEJS
+- PHP
+- PYTHON
+    - DJANGO
