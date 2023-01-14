@@ -1,8 +1,5 @@
-- HTML
-- CSS
-- JAVASCRIPT
-    - PHASER
-    - VUEJS
-- PHP
-- PYTHON
-    - DJANGO
+# Playgrounds
+
+- [PYTHON](https://github.com/mejasonatkinson/playground-python)
+    - [DJANGO](https://github.com/mejasonatkinson/playground-django)
+    
