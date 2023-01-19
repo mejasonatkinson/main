@@ -2,6 +2,7 @@
 
 ## Playgrounds
 
+- [DATA](https://github.com/mejasonatkinson/playground-data)
 - [DOCKER](https://github.com/mejasonatkinson/playground-docker)
 - JAVASCRIPT
     - [NODEJS](https://github.com/mejasonatkinson/playground-nodejs)
@@ -15,4 +16,13 @@
 
 ## Projects
 
-<!-- https://github.com/mejasonatkinson/playground-data -->
+https://github.com/mejasonatkinson/topic-tool
+https://github.com/mejasonatkinson/topics-javascript
+https://github.com/mejasonatkinson/topics-php
+https://github.com/mejasonatkinson/topics-python
+https://github.com/mejasonatkinson/topics
+
+
+https://github.com/mejasonatkinson/project-tool
+https://github.com/mejasonatkinson/guitar-tool
+https://github.com/mejasonatkinson/presentation-tool
