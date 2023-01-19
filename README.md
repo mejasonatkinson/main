@@ -16,13 +16,19 @@
 
 ## Projects
 
-https://github.com/mejasonatkinson/topic-tool
-https://github.com/mejasonatkinson/topics-javascript
-https://github.com/mejasonatkinson/topics-php
-https://github.com/mejasonatkinson/topics-python
-https://github.com/mejasonatkinson/topics
+<!--
+Topics:
+*Delete, if not being used?*
+- [JAVASCRIPT](https://github.com/mejasonatkinson/topics-javascript)
+- [PHP](https://github.com/mejasonatkinson/topics-php)
+- [PYTHON](https://github.com/mejasonatkinson/topics-python)
+- [TOPICS](https://github.com/mejasonatkinson/topics)
+-->
 
-
-https://github.com/mejasonatkinson/project-tool
-https://github.com/mejasonatkinson/guitar-tool
-https://github.com/mejasonatkinson/presentation-tool
+<!--
+Projects:
+- [TOPIC TOOL](https://github.com/mejasonatkinson/topic-tool)
+- [PROJECT TOOL](https://github.com/mejasonatkinson/project-tool)
+- [GUITAR TOOL](https://github.com/mejasonatkinson/guitar-tool)
+- [PRESENTATION TOOL](https://github.com/mejasonatkinson/presentation-tool)
+-->
