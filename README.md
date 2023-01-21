@@ -17,7 +17,8 @@ All the playground Repos, follow the same naming structure: `playground-[topic]`
 ## Projects
 
 - [ ] project-title (file-path)
-- [ ] [course-title; author](link) project-title (file-path)
+- [ ] [course-title; author](notes-link) project-title (file-path)
+- [ ] [course-title; author](notes-link) [projects](link)
 - [x] project-title (file-path) *last updated: ##/##/##*
 
 ## Resources
@@ -26,7 +27,7 @@ All the playground Repos, follow the same naming structure: `playground-[topic]`
 - [x] [title](link) *last review: ##/##/##*
 ````
 
-Notes are stored in a `notes` directory, and the general naming convention would be`notes/course-title--author.md` IF a course has projects to complete these will be linked to BUT stored within the `projects` directory
+Notes are stored in a `notes` directory, and the general naming convention would be`notes/course-title--author.md` IF a course has a project to complete these will be linked to BUT stored within the `projects` directory such as `projects/course-title--author/project/` IF a course has multiple projects, then a projects link will be used in the main `README.md` file, which will link to another readme file with the projects directory `projects/course-title--author/README.md` and this will store all the projects created from the course.
 
 
 - VERSION CONTROL
