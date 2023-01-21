@@ -4,7 +4,7 @@
 
 What do I mean by playground? A playground is a safe place to test and try things out. Either from my own ideas or from courses, I am taking on the topic.
 
-All the playground Repos, follow the same naming structure: `playground-[topic]` they also all contain a formated readme.md file which acts as a index to the playground
+All the playground Repos, follow the same naming structure: `playground-[topic]` they also all contain a formated readme.md file which acts as a index to the playground and is also structured:
 
 ````
 # Playground for [topic]
@@ -12,14 +12,19 @@ All the playground Repos, follow the same naming structure: `playground-[topic]`
 ## Notes
 
 - [ ] [title](link)
+- [x] [title](link) *last updated: ##/##/##*
+
+## Projects
+
+- [ ] project-title (file-path)
+- [x] project-title (file-path) *last updated: ##/##/##*
 
 ## Resources
 
 - [ ] [title](link)
+- [x] [title](link) *last review: ##/##/##*
 
 ````
-
-
 
 - VERSION CONTROL
     - GIT
