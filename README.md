@@ -5,9 +5,21 @@
 - VERSION CONTROL
     - GIT
         - GITHUB
-
+        - GITLAB
+        - BITBUCKET
+- CONTAINER
+    - [DOCKER](https://github.com/mejasonatkinson/playground-docker)
+    - KUBERNETES
+- PROGRAMMING LANGUAGES
+    - MARKUP LANGUAGES
+        - MARKDOWN
+        - HTML
+        - STYLING
+            - CSS
+                - SASS
+                - LESS
 - [DATA](https://github.com/mejasonatkinson/playground-data)
-- [DOCKER](https://github.com/mejasonatkinson/playground-docker)
+
 - JAVASCRIPT
     - [NODEJS](https://github.com/mejasonatkinson/playground-nodejs)
     - [REACTJS](https://github.com/mejasonatkinson/playground-reactjs)
