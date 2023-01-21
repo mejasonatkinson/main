@@ -2,21 +2,29 @@
 
 ## Playgrounds
 
-<!--
+What do I mean by playground? A playground is a safe place to test and try things out. Either from my own ideas or from courses, I am taking on the topic.
 
-What do I mean by Playground.
-PLaygrounds contain...
+All the playground Repos, follow the same naming structure: `playground-[topic]` they also all contain a formated readme.md file which acts as a index to the playground
 
-Sandboxes, Safe Places to test and try things...
+````
 
--->
+#
+
+##
+
+##
+
+
+````
+
+
 
 - VERSION CONTROL
     - GIT
         - GITHUB
         - GITLAB
         - BITBUCKET
-- CONTAINER
+- CONTAINERS
     - [DOCKER](https://github.com/mejasonatkinson/playground-docker)
     - KUBERNETES
 - PROGRAMMING LANGUAGES
@@ -28,7 +36,7 @@ Sandboxes, Safe Places to test and try things...
                 - SASS
                 - LESS
     - JAVASCRIPT
-        - NODEJS 
+        - [NODEJS](https://github.com/mejasonatkinson/playground-nodejs)
         - PHASER
             - [PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)
         - VUEJS
@@ -41,10 +49,8 @@ Sandboxes, Safe Places to test and try things...
 <!--
 - [DATA](https://github.com/mejasonatkinson/playground-data)
 - JAVASCRIPT
-    - [NODEJS](https://github.com/mejasonatkinson/playground-nodejs)
     - [REACTJS](https://github.com/mejasonatkinson/playground-reactjs)
     - [STRAPICMS](https://github.com/mejasonatkinson/playground-strapiCMS)
-    
 - [PHP](https://github.com/mejasonatkinson/playground-php)
     - [CRAFTCMS](https://github.com/mejasonatkinson/playground-craftCMS)    
 -->
