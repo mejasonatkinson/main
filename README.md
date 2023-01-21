@@ -23,7 +23,6 @@ All the playground Repos, follow the same naming structure: `playground-[topic]`
 
 - [ ] [title](link)
 - [x] [title](link) *last review: ##/##/##*
-
 ````
 
 - VERSION CONTROL
