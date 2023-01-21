@@ -9,6 +9,8 @@ All the playground Repos, follow the same naming structure: `playground-[topic]`
 ````
 # Playground for [topic]
 
+A place to learn more about [topic], and try things.
+
 ## Notes
 
 - [ ] [course-title; author](link)
