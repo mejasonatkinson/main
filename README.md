@@ -27,6 +27,7 @@ Topics:
 
 <!--
 Projects:
+*Delete, if not being used?*
 - [TOPIC TOOL](https://github.com/mejasonatkinson/topic-tool)
 - [PROJECT TOOL](https://github.com/mejasonatkinson/project-tool)
 - [GUITAR TOOL](https://github.com/mejasonatkinson/guitar-tool)
