@@ -2,6 +2,15 @@
 
 ## Playgrounds
 
+<!--
+
+What do I mean by Playground.
+PLaygrounds contain...
+
+Sandboxes, Safe Places to test and try things...
+
+-->
+
 - VERSION CONTROL
     - GIT
         - GITHUB
@@ -18,17 +27,27 @@
             - CSS
                 - SASS
                 - LESS
-- [DATA](https://github.com/mejasonatkinson/playground-data)
+    - JAVASCRIPT
+        - NODEJS 
+        - PHASER
+            - [PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)
+        - VUEJS
+        - IONIC
+            - STENCILJS
+    - PHP
+    - [PYTHON](https://github.com/mejasonatkinson/playground-python)
+        - [DJANGO](https://github.com/mejasonatkinson/playground-django)
 
+<!--
+- [DATA](https://github.com/mejasonatkinson/playground-data)
 - JAVASCRIPT
     - [NODEJS](https://github.com/mejasonatkinson/playground-nodejs)
     - [REACTJS](https://github.com/mejasonatkinson/playground-reactjs)
     - [STRAPICMS](https://github.com/mejasonatkinson/playground-strapiCMS)
-    - [PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)
+    
 - [PHP](https://github.com/mejasonatkinson/playground-php)
-    - [CRAFTCMS](https://github.com/mejasonatkinson/playground-craftCMS)
-- [PYTHON](https://github.com/mejasonatkinson/playground-python)
-    - [DJANGO](https://github.com/mejasonatkinson/playground-django)    
+    - [CRAFTCMS](https://github.com/mejasonatkinson/playground-craftCMS)    
+-->
 
 ## Projects
 
