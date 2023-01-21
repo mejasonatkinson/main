@@ -7,13 +7,15 @@ What do I mean by playground? A playground is a safe place to test and try thing
 All the playground Repos, follow the same naming structure: `playground-[topic]` they also all contain a formated readme.md file which acts as a index to the playground
 
 ````
+# Playground for [topic]
 
-#
+## Notes
 
-##
+- [ ] [title](link)
 
-##
+## Resources
 
+- [ ] [title](link)
 
 ````
 
