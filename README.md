@@ -11,12 +11,13 @@ All the playground Repos, follow the same naming structure: `playground-[topic]`
 
 ## Notes
 
-- [ ] [title](link)
-- [x] [title](link) *last updated: ##/##/##*
+- [ ] [course-title; author](link)
+- [x] [course-title; author](link) *last updated: ##/##/##*
 
 ## Projects
 
 - [ ] project-title (file-path)
+- [ ] [course-title; author](link) project-title (file-path)
 - [x] project-title (file-path) *last updated: ##/##/##*
 
 ## Resources
@@ -24,6 +25,9 @@ All the playground Repos, follow the same naming structure: `playground-[topic]`
 - [ ] [title](link)
 - [x] [title](link) *last review: ##/##/##*
 ````
+
+Notes are stored in a `notes` directory, and the general naming convention would be`notes/course-title--author.md` IF a course has projects to complete these will be linked to BUT stored within the `projects` directory
+
 
 - VERSION CONTROL
     - GIT
