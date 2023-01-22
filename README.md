@@ -2,7 +2,7 @@
 
 ## Playgrounds
 
-Below is a List of playgrounds created as repos. This file acts as a overview for them; so you are able to see how they all link together.
+Below is a List of playgrounds created as repos. This file acts as an overview for them; so you are able to see how they all link together. If you want to read about how these repos are structured please review this [document](playgrounds.md).
 
 - VERSION CONTROL
     - [GIT](https://github.com/mejasonatkinson/playground-git)
