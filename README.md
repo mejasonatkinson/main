@@ -25,20 +25,20 @@ Playground which are displayed in **bold** are focus topics.
     - JAVASCRIPT
         - [NODEJS](https://github.com/mejasonatkinson/playground-nodejs)
         - PHASER
-            - [PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)
+            - **[PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)**
         - **[VUEJS](https://github.com/mejasonatkinson/playground-vuejs)**
-        - REACTJS <!-- (https://github.com/mejasonatkinson/playground-reactjs) -->
+        - [REACTJS](https://github.com/mejasonatkinson/playground-reactjs)
         - IONIC
             - **[STENCILJS](https://github.com/mejasonatkinson/playground-stenciljs)**
-        - STRAPI CMS <!-- (https://github.com/mejasonatkinson/playground-strapiCMS) -->
-    - PHP <!-- (https://github.com/mejasonatkinson/playground-php) -->
-        - **CRAFT CMS** <!-- (https://github.com/mejasonatkinson/playground-craftCMS) -->   
+        - [STRAPI CMS](https://github.com/mejasonatkinson/playground-strapiCMS)
+    - [PHP](https://github.com/mejasonatkinson/playground-php)
+        - [CRAFT CMS](https://github.com/mejasonatkinson/playground-craftCMS)
     - **[PYTHON](https://github.com/mejasonatkinson/playground-python)**
         - **[DJANGO](https://github.com/mejasonatkinson/playground-django)**
+        - 
+## Projects
 
-<!--
-- [DATA](https://github.com/mejasonatkinson/playground-data)
--->
+To come up with project ideas I thought it would be a good idea to create a repo to store [DATA](https://github.com/mejasonatkinson/playground-data) which I might want to use in the projects I create.
 
 <!--
 Projects:
