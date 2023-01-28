@@ -4,13 +4,15 @@
 
 Below is a List of playgrounds created as repos. This file acts as an overview for them; so you are able to see how they all link together. If you want to read about how these repos are structured please review this [document](playgrounds.md).
 
+Playground which are displayed in **bold** are focus topics.
+
 - VERSION CONTROL
-    - [GIT](https://github.com/mejasonatkinson/playground-git)
-        - GITHUB
+    - **[GIT](https://github.com/mejasonatkinson/playground-git)**
+        - **GITHUB**
         - GITLAB
         - BITBUCKET
 - CONTAINERS
-    - [DOCKER](https://github.com/mejasonatkinson/playground-docker)
+    - **[DOCKER](https://github.com/mejasonatkinson/playground-docker)**
     - KUBERNETES
 - PROGRAMMING LANGUAGES
     - MARKUP LANGUAGES
@@ -18,38 +20,24 @@ Below is a List of playgrounds created as repos. This file acts as an overview f
         - HTML
         - STYLING
             - CSS
-                - SASS
+                - **SASS**
                 - LESS
     - JAVASCRIPT
         - [NODEJS](https://github.com/mejasonatkinson/playground-nodejs)
         - PHASER
             - [PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)
-        - [VUEJS](https://github.com/mejasonatkinson/playground-vuejs)
+        - **[VUEJS](https://github.com/mejasonatkinson/playground-vuejs)**
         - REACTJS <!-- (https://github.com/mejasonatkinson/playground-reactjs) -->
         - IONIC
-            - [STENCILJS](https://github.com/mejasonatkinson/playground-stenciljs)
+            - **[STENCILJS](https://github.com/mejasonatkinson/playground-stenciljs)**
         - STRAPI CMS <!-- (https://github.com/mejasonatkinson/playground-strapiCMS) -->
     - PHP <!-- (https://github.com/mejasonatkinson/playground-php) -->
-        - CRAFT CMS <!-- (https://github.com/mejasonatkinson/playground-craftCMS) -->   
-    - [PYTHON](https://github.com/mejasonatkinson/playground-python)
-        - [DJANGO](https://github.com/mejasonatkinson/playground-django)
-
-
-
-
- 
-
-
-
+        - **CRAFT CMS** <!-- (https://github.com/mejasonatkinson/playground-craftCMS) -->   
+    - **[PYTHON](https://github.com/mejasonatkinson/playground-python)**
+        - **[DJANGO](https://github.com/mejasonatkinson/playground-django)**
 
 <!--
 - [DATA](https://github.com/mejasonatkinson/playground-data)
-Topics:
-*Delete, if not being used?*
-- [JAVASCRIPT](https://github.com/mejasonatkinson/topics-javascript)
-- [PHP](https://github.com/mejasonatkinson/topics-php)
-- [PYTHON](https://github.com/mejasonatkinson/topics-python)
-- [TOPICS](https://github.com/mejasonatkinson/topics)
 -->
 
 <!--
