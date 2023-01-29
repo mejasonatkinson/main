@@ -7,12 +7,12 @@ Below is a List of playgrounds created as repos. This file acts as an overview f
 Playground which are displayed in **bold** are focus topics.
 
 - VERSION CONTROL
-    - **[GIT](https://github.com/mejasonatkinson/playground-git)**
+    - **<u>[GIT](https://github.com/mejasonatkinson/playground-git)</u>**
         - **GITHUB**
         - GITLAB
         - BITBUCKET
 - CONTAINERS
-    - **[DOCKER](https://github.com/mejasonatkinson/playground-docker)**
+    - **<u>[DOCKER](https://github.com/mejasonatkinson/playground-docker)</u>**
     - KUBERNETES
 - PROGRAMMING LANGUAGES
     - MARKUP LANGUAGES
@@ -20,22 +20,22 @@ Playground which are displayed in **bold** are focus topics.
         - HTML
         - STYLING
             - CSS
-                - **SASS**
+                - **<u>SASS**
                 - LESS
     - JAVASCRIPT
         - [NODEJS](https://github.com/mejasonatkinson/playground-nodejs)
         - PHASER
-            - **[PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)**
-        - **[VUEJS](https://github.com/mejasonatkinson/playground-vuejs)**
+            - **<u>[PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)</u>**
+        - **<u>[VUEJS](https://github.com/mejasonatkinson/playground-vuejs)**
         - [REACTJS](https://github.com/mejasonatkinson/playground-reactjs)
         - IONIC
-            - **[STENCILJS](https://github.com/mejasonatkinson/playground-stenciljs)**
+            - **<u>[STENCILJS](https://github.com/mejasonatkinson/playground-stenciljs)</u>**
         - [STRAPI CMS](https://github.com/mejasonatkinson/playground-strapiCMS)
     - [PHP](https://github.com/mejasonatkinson/playground-php)
         - [CRAFT CMS](https://github.com/mejasonatkinson/playground-craftCMS)
-    - **[PYTHON](https://github.com/mejasonatkinson/playground-python)**
-        - **[DJANGO](https://github.com/mejasonatkinson/playground-django)**
-        - 
+    - **<u>[PYTHON](https://github.com/mejasonatkinson/playground-python)</u>**
+        - **<u>[DJANGO](https://github.com/mejasonatkinson/playground-django)</u>**
+    
 ## Projects
 
 To come up with project ideas I thought it would be a good idea to create a repo to store [DATA](https://github.com/mejasonatkinson/playground-data) which I might want to use in the projects I create.
