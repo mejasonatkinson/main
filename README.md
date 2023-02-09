@@ -7,34 +7,27 @@ Below is a List of playgrounds created as repos. This file acts as an overview f
 Playground which are displayed in **bold** are focus topics.
 
 - VERSION CONTROL
-    - **<u>[GIT](https://github.com/mejasonatkinson/playground-git)</u>**
-        - **GITHUB**
-        - GITLAB
-        - BITBUCKET
+    - **[GIT](https://github.com/mejasonatkinson/playground-git)**
 - CONTAINERS
-    - **<u>[DOCKER](https://github.com/mejasonatkinson/playground-docker)</u>**
-    - KUBERNETES
+    - **[DOCKER](https://github.com/mejasonatkinson/playground-docker)**
 - PROGRAMMING LANGUAGES
     - MARKUP LANGUAGES
-        - MARKDOWN
-        - HTML
         - STYLING
             - CSS
-                - **<u>SASS**
-                - LESS
+                - **SASS**
     - JAVASCRIPT
         - [NODEJS](https://github.com/mejasonatkinson/playground-nodejs)
         - PHASER
-            - **<u>[PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)</u>**
-        - **<u>[VUEJS](https://github.com/mejasonatkinson/playground-vuejs)**
+            - **[PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)**
+        - **[VUEJS](https://github.com/mejasonatkinson/playground-vuejs)**
         - [REACTJS](https://github.com/mejasonatkinson/playground-reactjs)
         - IONIC
-            - **<u>[STENCILJS](https://github.com/mejasonatkinson/playground-stenciljs)</u>**
+            - **[STENCILJS](https://github.com/mejasonatkinson/playground-stenciljs)</u>**
         - [STRAPI CMS](https://github.com/mejasonatkinson/playground-strapiCMS)
     - [PHP](https://github.com/mejasonatkinson/playground-php)
         - [CRAFT CMS](https://github.com/mejasonatkinson/playground-craftCMS)
-    - **<u>[PYTHON](https://github.com/mejasonatkinson/playground-python)</u>**
-        - **<u>[DJANGO](https://github.com/mejasonatkinson/playground-django)</u>**
+    - **[PYTHON](https://github.com/mejasonatkinson/playground-python)**
+        - **[DJANGO](https://github.com/mejasonatkinson/playground-django)**
     
 ## Projects
 
