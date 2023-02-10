@@ -18,7 +18,7 @@ Playground which are displayed in **bold** are focus topics.
     - JAVASCRIPT
         - [NODEJS](https://github.com/mejasonatkinson/playground-nodejs)
         - PHASER
-            - **[PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)**
+            - [PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)
         - **[VUEJS](https://github.com/mejasonatkinson/playground-vuejs)**
         - [REACTJS](https://github.com/mejasonatkinson/playground-reactjs)
         - IONIC
