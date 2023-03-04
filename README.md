@@ -15,7 +15,9 @@ Playground which are displayed in **bold** are focus topics.
         - STYLING
             - CSS
                 - **[SASS](https://github.com/mejasonatkinson/playground-sass)**
+                - LESS
     - JAVASCRIPT
+        - GRUNT
         - [NODEJS](https://github.com/mejasonatkinson/playground-nodejs)
         - PHASER
             - [PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)
@@ -25,9 +27,14 @@ Playground which are displayed in **bold** are focus topics.
             - **[STENCILJS](https://github.com/mejasonatkinson/playground-stenciljs)</u>**
         - [STRAPI CMS](https://github.com/mejasonatkinson/playground-strapiCMS)
     - [PHP](https://github.com/mejasonatkinson/playground-php)
+        - SYMFONY
+        - LARAVEL
+        - WORDPRESS
         - [CRAFT CMS](https://github.com/mejasonatkinson/playground-craftCMS)
     - **[PYTHON](https://github.com/mejasonatkinson/playground-python)**
         - **[DJANGO](https://github.com/mejasonatkinson/playground-django)**
+        - FLASK
+        - WAGTAIL
     
 ## Projects
 
