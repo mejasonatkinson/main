@@ -35,6 +35,8 @@ Playground which are displayed in **bold** are focus topics.
         - **[DJANGO](https://github.com/mejasonatkinson/playground-django)**
         - FLASK
         - WAGTAIL
+    - GO
+        - [HUGO](https://github.com/mejasonatkinson/playground-hugo)
     
 ## Projects
 
