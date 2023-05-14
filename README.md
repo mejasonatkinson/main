@@ -7,32 +7,33 @@ Below is a List of playgrounds created as repos. This file acts as an overview f
 Playground which are displayed in **bold** are focus topics.
 
 - VERSION CONTROL
-    - **[GIT](https://github.com/mejasonatkinson/playground-git)**
+    - [GIT](https://github.com/mejasonatkinson/playground-git)
 - CONTAINERS
-    - **[DOCKER](https://github.com/mejasonatkinson/playground-docker)**
+    - [DOCKER](https://github.com/mejasonatkinson/playground-docker)
 - PROGRAMMING LANGUAGES
     - MARKUP LANGUAGES
         - STYLING
             - CSS
-                - **[SASS](https://github.com/mejasonatkinson/playground-sass)**
+                - [SASS](https://github.com/mejasonatkinson/playground-sass)
                 - LESS
+                - [TAILWINDCSS](https://github.com/mejasonatkinson/playground-tailwindCSS)
     - JAVASCRIPT
         - GRUNT
         - [NODEJS](https://github.com/mejasonatkinson/playground-nodejs)
         - PHASER
             - [PHASER3](https://github.com/mejasonatkinson/playground-phaser-3)
-        - **[VUEJS](https://github.com/mejasonatkinson/playground-vuejs)**
+        - [VUEJS](https://github.com/mejasonatkinson/playground-vuejs)
         - [REACTJS](https://github.com/mejasonatkinson/playground-reactjs)
         - IONIC
-            - **[STENCILJS](https://github.com/mejasonatkinson/playground-stenciljs)</u>**
+            - [STENCILJS](https://github.com/mejasonatkinson/playground-stenciljs)
         - [STRAPI CMS](https://github.com/mejasonatkinson/playground-strapiCMS)
     - [PHP](https://github.com/mejasonatkinson/playground-php)
         - SYMFONY
         - LARAVEL
         - WORDPRESS
         - [CRAFT CMS](https://github.com/mejasonatkinson/playground-craftCMS)
-    - **[PYTHON](https://github.com/mejasonatkinson/playground-python)**
-        - **[DJANGO](https://github.com/mejasonatkinson/playground-django)**
+    - [PYTHON](https://github.com/mejasonatkinson/playground-python)
+        - [DJANGO](https://github.com/mejasonatkinson/playground-django)
         - FLASK
         - WAGTAIL
     - GO
@@ -40,7 +41,19 @@ Playground which are displayed in **bold** are focus topics.
     
 ## Projects
 
-To come up with project ideas I thought it would be a good idea to create a repo to store [DATA](https://github.com/mejasonatkinson/playground-data) which I might want to use in the projects I create.
+### Data
+
+To come up with project ideas I thought it would be a good idea to create a repo to store [DATA](https://github.com/mejasonatkinson/playground-data) which I might want to use in the projects I create, these are all stored in json format.
+
+**Data includes:**
+- The Euro Million Results
+
+- My Euro Million Results
+- My Instant Win Results
+- My Fitness Workouts
+
+- Quotes
+- Blog Posts (empty)
 
 <!--
 Projects:
