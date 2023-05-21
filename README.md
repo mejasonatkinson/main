@@ -45,15 +45,41 @@ Playground which are displayed in **bold** are focus topics.
 
 To come up with project ideas I thought it would be a good idea to create a repo to store [DATA](https://github.com/mejasonatkinson/playground-data) which I might want to use in the projects I create, these are all stored in json format.
 
-**Data includes:**
+#### Includes:
 - The Euro Million Results
-
 - My Euro Million Results
 - My Instant Win Results
 - My Fitness Workouts
-
 - Quotes
 - Blog Posts (empty)
+
+### CodePen
+
+I have a number of working progress CodePen examples, organised into collections.
+
+- [Productivity - Collection](https://codepen.io/collection/PYaKzr)
+    - [ToDo #1 - Pen](https://codepen.io/mejasonatkinson/pen/mdzjdrL)    
+    - [Stopwatch - Collection](https://codepen.io/collection/mrKkoq)
+        - [Stopwatch #1 - Pen](https://codepen.io/mejasonatkinson/pen/rNqrBKX) 
+    - [Timer - Collection](https://codepen.io/collection/RzJedL)
+        - [Timer #1 - Simple JavaScript Timer. AutoStart - Pen](https://codepen.io/mejasonatkinson/pen/qBJyWrE) 
+        - [Timer #2 - Multiple Timers - Pen](https://codepen.io/mejasonatkinson/pen/yLREdBm) 
+- [CSS Grid Layouts - Collection](https://codepen.io/collection/eJzobJ)
+    - [Flexbox Layout - Pen](https://codepen.io/mejasonatkinson/pen/MWPJVBE) 
+    - [Float Layout - Pen](https://codepen.io/mejasonatkinson/pen/oNaBqMV) 
+    - [Table Layout - Pen](https://codepen.io/mejasonatkinson/pen/RweKMYb) 
+    - [Grid Layout - Pen](https://codepen.io/mejasonatkinson/pen/gOBgejb) 
+- [SpeechSynthesisUtterance- Collection](https://codepen.io/collection/ZMoemG)
+    - [Simple, Speech Synthesiser, Web Component - Pen](https://codepen.io/mejasonatkinson/pen/LYgxdzg) 
+    - [List of Title Speech Synthesiser Voices - Pen](https://codepen.io/mejasonatkinson/pen/WNaRpKy) 
+    - [Blog Post Example, Simple, Speech Synthesiser - Pen](https://codepen.io/mejasonatkinson/pen/VwEPaEd) 
+    - [Multi-Input, Simple, Speech Synthesiser (1-for-Each) - Pen](https://codepen.io/mejasonatkinson/pen/GRYrZXw) 
+    - [Multi-Input, Simple, Speech Synthesiser (1-to-All) - Pen](https://codepen.io/mejasonatkinson/pen/oNaBxME) 
+    - [Simple, Speech Synthesiser - Pen](https://codepen.io/mejasonatkinson/pen/MWPJybW) 
+    - [Feature Rich, Speech Synthesiser - Pen](https://codepen.io/mejasonatkinson/pen/poxRyez) 
+
+
+
 
 <!--
 Projects:
