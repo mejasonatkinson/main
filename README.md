@@ -41,17 +41,51 @@ Playground which are displayed in **bold** are focus topics.
     
 ## Projects
 
-### Data
+### Project Ideas
+
+<!-- 
+- IDEAS FOR F1NN
+    - How many sharks?
+    - Chair, Chatbot?
+
+- CLONES
+    - MESSAGING
+        - Slack
+        - Discord
+    - STREAMING PLATFORMS
+        - Twitch
+        - Netflix
+        - Disney+
+        - Youtube
+        - Spotify
+
+- PRODUCTIVITY
+
+- BUILD TOOLS
+
+- GAMES
+
+- EDUCATION
+
+- FAMILY TREE BUILDER
+
+ -->
+
+### Data/Content
 
 To come up with project ideas I thought it would be a good idea to create a repo to store [DATA](https://github.com/mejasonatkinson/playground-data) which I might want to use in the projects I create, these are all stored in json format.
 
-#### Includes:
+**Includes:**
 - The Euro Million Results
 - My Euro Million Results
 - My Instant Win Results
 - My Fitness Workouts
 - Quotes
 - Blog Posts (empty)
+
+<!-- 
+- Savings? 
+-->
 
 ### CodePen
 
