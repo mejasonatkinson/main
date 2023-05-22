@@ -45,7 +45,7 @@ Playground which are displayed in **bold** are focus topics.
 
 <!-- 
 - IDEAS FOR F1NN
-    - How many sharks?
+    - How many BLÅHAJ's?
     - Chair, Chatbot?
 
 - CLONES
@@ -60,6 +60,7 @@ Playground which are displayed in **bold** are focus topics.
         - Spotify
 
 - PRODUCTIVITY
+    - DASHBOARDS
 
 - BUILD TOOLS
 
