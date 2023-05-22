@@ -43,13 +43,12 @@ Playground which are displayed in **bold** are focus topics.
 
 ### Project Ideas
 
-<!-- 
-- IDEAS FOR F1NN
-    - How many BLÅHAJ's?
-    - Chair, Chatbot?
+#### Design:
+
+#### Code:
 
 - CLONES
-    - MESSAGING
+    - MESSAGING PLATFORMS
         - Slack
         - Discord
     - STREAMING PLATFORMS
@@ -58,9 +57,51 @@ Playground which are displayed in **bold** are focus topics.
         - Disney+
         - Youtube
         - Spotify
+    - WEBSITES
+        - GUITARS
+            - Fender
+            - Gibson
+            - Epiphone 
+        - SPACE AGENCIES
+            - UK Space Agency
+            - Nasa
+            - Canadian Space Agency
+            - EU Agency
+        - CARS
 
 - PRODUCTIVITY
+    - TODO
+    - TIMER
+    - STOPWATCH
+        - POMODORO
+
+<!-- 
+- IDEAS FOR F1NN
+    - How many BLÅHAJ's?
+    - Chair, Chatbot?
+
+- PRODUCTIVITY
+    - PROJECT MANAGEMENT
+    - RESEARCH
+    - RESOURCE
+    - NOTETAKING
     - DASHBOARDS
+    - SOCIAL MEDIA MANAGEMENT
+
+- JOB SEARCH
+- CV
+- COVER LETTER
+- TRACKING
+- ACHIEVEMENTS
+- DIET
+- EXERCISE
+- THOUGHTS
+- LEARNING
+- HABITS
+
+- BLOG
+
+- PRESENTATION
 
 - BUILD TOOLS
 
