@@ -45,6 +45,9 @@ Playground which are displayed in **bold** are focus topics.
 
 #### Design:
 
+- FIGMA
+- ADOBE XD
+
 #### Code:
 
 - CLONES
@@ -68,12 +71,13 @@ Playground which are displayed in **bold** are focus topics.
             - Canadian Space Agency
             - EU Agency
         - CARS
-
 - PRODUCTIVITY
     - TODO
     - TIMER
     - STOPWATCH
         - POMODORO
+- GAMES
+    - CHESS
 
 <!-- 
 - IDEAS FOR F1NN
@@ -104,8 +108,6 @@ Playground which are displayed in **bold** are focus topics.
 - PRESENTATION
 
 - BUILD TOOLS
-
-- GAMES
 
 - EDUCATION
 
