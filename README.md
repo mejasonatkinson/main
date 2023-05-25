@@ -78,6 +78,7 @@ Playground which are displayed in **bold** are focus topics.
         - POMODORO
 - GAMES
     - CHESS
+    - FIZZ BUZZ
 
 <!-- 
 - IDEAS FOR F1NN
