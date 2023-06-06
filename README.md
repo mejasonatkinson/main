@@ -12,6 +12,8 @@ Playground which are displayed in **bold** are focus topics.
     - [DOCKER](https://github.com/mejasonatkinson/playground-docker)
 - PROGRAMMING LANGUAGES
     - MARKUP LANGUAGES
+        - MD
+        - HTML
         - STYLING
             - CSS
                 - [SASS](https://github.com/mejasonatkinson/playground-sass)
