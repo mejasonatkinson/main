@@ -41,6 +41,7 @@ Playground which are displayed in **bold** are focus topics.
     - GO
         - [HUGO](https://github.com/mejasonatkinson/playground-hugo)
     
+<!--    
 ## Projects
 
 ### Project Ideas
@@ -81,7 +82,7 @@ Playground which are displayed in **bold** are focus topics.
 - GAMES
     - CHESS
     - FIZZ BUZZ
-
+-->
 <!-- 
 - IDEAS FOR F1NN
     - How many BLÅHAJ's?
