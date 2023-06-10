@@ -139,6 +139,7 @@ To come up with project ideas I thought it would be a good idea to create a repo
 
 I have a number of working progress CodePen examples, organised into collections.
 
+<!--
 - [Productivity - Collection](https://codepen.io/collection/PYaKzr)
     - [ToDo #1 - Pen](https://codepen.io/mejasonatkinson/pen/mdzjdrL)    
     - [Stopwatch - Collection](https://codepen.io/collection/mrKkoq)
@@ -159,8 +160,7 @@ I have a number of working progress CodePen examples, organised into collections
     - [Multi-Input, Simple, Speech Synthesiser (1-to-All) - Pen](https://codepen.io/mejasonatkinson/pen/oNaBxME) 
     - [Simple, Speech Synthesiser - Pen](https://codepen.io/mejasonatkinson/pen/MWPJybW) 
     - [Feature Rich, Speech Synthesiser - Pen](https://codepen.io/mejasonatkinson/pen/poxRyez) 
-
-
+-->
 
 
 <!--
