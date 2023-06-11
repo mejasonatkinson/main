@@ -1,0 +1,51 @@
+- STANDARDS
+    - SCORM 
+    - XAPI
+- VERSION CONTROL
+    - GIT
+- CONTAINERS
+    - DOCKER
+- CLOUD DEVELOPMENT
+    - GITPOD
+- PROGRAMMING LANGUAGES
+    - MARKUP LANGUAGES
+        - MD
+        - HTML
+        - STYLING
+            - CSS
+                - SASS
+                - LESS
+                - POSTCSS
+                - TAILWIND LAB
+                    - TAILWINDCSS
+                    - HEROICONS
+    - JAVASCRIPT
+        - TYPESCRIPT
+        - JQUERY
+        - GRUNT
+        - NODEJS
+        - DENO
+        - PHASER
+            - PHASER3
+        - NUXTJS
+        - VITEJS
+            - VUEJS  
+        - NEXTJS
+            - REACTJS
+        - IONIC
+            - STENCILJS
+        - STRAPI CMS
+    - PHP
+        - SYMFONY
+        - LARAVEL
+        - CONTENT MANAGEMENT SYSTEMS
+            - DRUPAL
+            - WORDPRESS
+            - CRAFT CMS
+    - PYTHON
+        - DJANGO
+        - FLASK
+        - WAGTAIL
+    - RUST
+    - GO
+        - HUGO
