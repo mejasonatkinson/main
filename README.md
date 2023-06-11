@@ -6,6 +6,10 @@ Below is a List of playgrounds created as repos. This file acts as an overview f
 
 Playground which are displayed in **bold** are focus topics.
 
+
+- STANDARDS
+    - SCORM 
+    - XAPI
 - VERSION CONTROL
     - [GIT](https://github.com/mejasonatkinson/playground-git)
 - CONTAINERS
