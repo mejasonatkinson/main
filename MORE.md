@@ -1,3 +1,9 @@
+
+- ESLINT
+- JEST
+- EMMET
+- TWIG
+
 - STANDARDS
     - SCORM 
     - XAPI
