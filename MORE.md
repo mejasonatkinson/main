@@ -3,6 +3,7 @@
 - JEST
 - EMMET
 - TWIG
+- ANGULAR
 
 - STANDARDS
     - SCORM 
